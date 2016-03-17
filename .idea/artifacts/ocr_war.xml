@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ocr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ocr_war.war" />
+  </artifact>
+</component>
